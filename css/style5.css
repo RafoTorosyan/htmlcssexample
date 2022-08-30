@@ -1,0 +1,154 @@
+body {
+    background-image: url("../img/images/b_coffee.jpg ");
+}
+
+.main {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto
+}
+
+.home_page {
+    margin-inline: 70px;
+}
+
+.about {
+    margin-left: 30px;
+}
+
+.portfolio {
+    margin-left: 30px;
+}
+
+.services {
+    margin-left: 30px;
+}
+
+.contact {
+    margin-left: 30px;
+}
+
+.logo {
+    margin-left: 70px;
+}
+
+.ss {
+    margin-top: 11px;
+    margin-left: -2px;
+    border: 1px dashed;
+}
+
+.conimg {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.ctxt {
+    color: limegreen;
+    font-size: 20px;
+    margin-top: -18px;
+    margin-left: 31px;
+}
+
+.phoneNumber {
+    color: orange;
+    font-size: 20px;
+    margin-left: 151px;
+    margin-top: -73px;
+}
+
+.ctxt1 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.ctxt2 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.contact1 {
+    margin-top: -261px;
+    margin-left: 624px;
+}
+
+.contact2 {
+    margin-left: 42px;
+    margin-top: 35px;
+}
+
+.input {
+    margin-top: 119px;
+    margin-left: 83px;
+}
+
+.input1 {
+    margin-left: 83px;
+    margin-top: -234px;
+}
+
+.input2 {
+    margin-left: 368px;
+    margin-top: -65px;;
+}
+
+.input3 {
+
+    margin-left: 652px;
+    margin-top: -65px;
+
+}
+
+.ctxt3 {
+    margin-top: -64px;
+    margin-left: 87px;
+}
+
+.ctxt4 {
+    margin-left: 370px;
+    margin-top: -19px;
+}
+
+.ctxt5 {
+    margin-left: 657px;
+    margin-top: -16px;
+}
+
+.ctxt6 {
+    margin-left: 89px;
+    margin-top: 64px;
+}
+
+.send {
+    margin-left: 723px;
+    margin-top: 133px;
+}
+
+.bcont {
+    margin-left: 26px;
+    margin-top: -48px;
+}
+
+.information {
+    margin-left: 21px;
+}
+
+.follow {
+    margin-left: 450px;
+    margin-top: -26px;
+}
+
+.icon1 {
+    margin-left: 873px;
+    margin-top: -75px;
+}
+
+.icon2 {
+    margin-left: 918px;
+    margin-top: -57px;
+}
+
+.icon3 {
+    margin-left: 968px;
+    margin-top: -56px;
+}

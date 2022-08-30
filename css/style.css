@@ -1,0 +1,161 @@
+body {
+    background-image: url("../img/images/b_coffee.jpg ");
+}
+
+.main {
+    width: 1000px;
+    height: 900px;
+    margin: 0 auto
+}
+
+.home_page {
+    margin-inline: 70px;
+}
+
+.about {
+    margin-left: 30px;
+}
+
+.portfolio {
+    margin-left: 30px;
+}
+
+.services {
+    margin-left: 30px;
+}
+
+.contact {
+    margin-left: 30px;
+}
+
+.logo {
+    margin-left: 70px;
+}
+
+.left {
+    margin-left: 104px;
+    margin-top: 147px;
+}
+
+.right {
+    margin-top: -56px;
+    margin-left: 891px;
+}
+
+.flex-container {
+    display: flex;
+    width: 900px;
+    margin-left: 65px;
+    margin-top: -190px;
+    justify-content: center;
+    background: url(../img/images/b_thumbs.png);
+
+}
+
+.flex-container div {
+    background: url("../img/images/b_thumbs.png");
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex {
+    display: flex;
+    margin-left: 123px;
+    padding: 30px;
+
+}
+
+.text {
+    color: green;
+    padding: 169px;
+    margin-top: -170px;
+}
+
+.flex1 {
+    display: flex;
+    margin-left: 430px;
+    margin-top: -75px;
+}
+
+.flex2 {
+    display: flex;
+    margin-left: 662px;
+    margin-top: -51px;
+}
+
+.text2 {
+    color: green;
+    padding: 20px;
+    margin-top: -278px;
+    margin-left: 420px;
+}
+
+.text3 {
+    color: green;
+    margin-top: -93px;
+    margin-left: 673px;
+}
+
+.text4 {
+    margin-top: -15px;
+    margin-left: 667px;
+}
+
+.text5 {
+    color: green;
+    margin-top: 27px;
+    margin-left: 671px;
+}
+
+.text6 {
+    margin-top: -10px;
+    margin-left: 665px;
+}
+
+.gradient {
+    margin-left: 441px;
+    margin-top: -127px;
+
+}
+
+.bubble {
+    margin-top: -131px;
+    margin-left: 423px;
+}
+
+.text7 {
+    margin-left: 144px;
+    margin-top: -111px;
+}
+
+.bcont {
+    margin-left: 20px;
+}
+
+.information {
+    margin-left: 21px;
+}
+
+.follow {
+    margin-left: 450px;
+    margin-top: -26px;
+}
+
+.icon1 {
+    margin-left: 873px;
+    margin-top: -75px;
+}
+
+.icon2 {
+    margin-left: 918px;
+    margin-top: -57px;
+}
+
+.icon3 {
+    margin-left: 968px;
+    margin-top: -56px;
+}
+

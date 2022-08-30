@@ -1,0 +1,174 @@
+body {
+    background-image: url("../img/images/b_coffee.jpg ");
+}
+
+.main {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto
+}
+
+.home_page {
+    margin-inline: 70px;
+}
+
+.about {
+    margin-left: 30px;
+}
+
+.portfolio {
+    margin-left: 30px;
+}
+
+.services {
+    margin-left: 30px;
+}
+
+.contact {
+    margin-left: 30px;
+}
+
+.logo {
+    margin-left: 70px;
+}
+
+.folio {
+    margin-top: 36px;
+    margin-left: 10px;
+}
+
+.wd {
+    margin-left: 40px;
+}
+
+.bub {
+    margin-left: 26px;
+    margin-top: -40px;
+}
+
+.art {
+    color: green;
+    margin-left: 44px;
+    margin-top: -4px;
+}
+
+.tr {
+    margin-left: 38px;
+    margin-top: -12px;
+}
+
+.ld {
+    margin-left: 40px;
+}
+
+.bub1 {
+    margin-top: -40px;
+    margin-left: 25px;
+}
+
+.tr1 {
+    margin-left: 38px;
+    margin-top: -12px;
+}
+
+.bd {
+    margin-left: 35px;
+}
+
+.bub2 {
+    margin-left: 20px;
+    margin-top: -40px;
+}
+
+.tr2 {
+    margin-left: 38px;
+    margin-top: -12px;
+}
+
+.png {
+    margin-top: -423px;
+    margin-left: 384px;
+}
+
+.jpg {
+    margin-left: 355px;
+    margin-top: 10px;
+}
+
+.button {
+    margin-left: 673px;
+    margin-top: 10px;
+}
+
+.button1 {
+    margin-top: -43px;
+    margin-left: 750px;
+}
+
+.button2 {
+    margin-top: -43px;
+    margin-left: 712px;
+}
+
+.number {
+    margin-left: 681px;
+    margin-top: -45px;
+}
+
+.number1 {
+    margin-left: 717px;
+    margin-top: -42px;
+}
+
+.number2 {
+    margin-left: 757px;
+    margin-top: -37px;
+}
+
+.link {
+    margin-top: -46px;
+    margin-left: 293px;
+}
+
+.bcont {
+    margin-left: 20px;
+    margin-top: -44px;
+}
+
+.information {
+    margin-left: 31px;
+}
+
+.follow {
+    margin-left: 533px;
+    margin-top: -37px;
+}
+
+.icon1 {
+    margin-left: 928px;
+    margin-top: -50px;
+}
+
+.icon2 {
+    margin-left: 974px;
+    margin-top: -57px;
+}
+
+.icon3 {
+    margin-left: 1023px;
+    margin-top: -56px;
+}
+
+.line2 {
+    border: 1px dashed;
+    margin-left: 36px;
+    margin-top: -716px;
+}
+
+.line1 {
+    border-left: 1px dashed black;
+    height: 678px;
+    margin-top: 87px;
+    margin-left: 268px;
+
+}
